@@ -27,7 +27,7 @@ namespace Generics
      * Note:We can defined static and instance memebers as generic members
      *
      *
-     *I have added new line
+     *I deleted line
      */
     class myclass
     {
